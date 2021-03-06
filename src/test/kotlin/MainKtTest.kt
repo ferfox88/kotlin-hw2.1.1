@@ -108,7 +108,7 @@ class MainKtTest {
         )
 
         //assert
-        assertEquals("Комиссия: 35 руб.", result)
+        assertEquals("Комиссия: 36 руб.", result)
     }
 
 }
